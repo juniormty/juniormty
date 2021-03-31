@@ -1,22 +1,22 @@
-# José Luis Jr. Garza Zúñiga #
+# José Luis Jr. Garza Zúñiga
 
-## Hello! ##
+## Hello!
 
 I'm a Senior Full Stack Developer​, with experience working on Web, mainly in Front End development with React using Redux and JS ES6, and Back End development with Grails and Hibernate, With experience in maintenance, development and design of web applications.
 
-And constantly updating knowledge and interest in technologies/frameworks for agile development applying CoC, DRY and KISS patterns and practices
+And constantly interest in technologies/frameworks for agile development applying CoC, DRY and KISS patterns and practices.
 
-### EXPERTISE: ###
+### Expertise:
 
 - 👩🏻‍💻 React – Redux Front End Development
 - 🛠 Full Stack Development
 - Java Developer
 - Application Design
 
-- Agile Methodology.
+- Agile Methodology
 
 <details>
-  <summary>Some other interest</summary>
+  <summary>Other interests</summary>
   <br>
 
   - Coffee
@@ -24,9 +24,10 @@ And constantly updating knowledge and interest in technologies/frameworks for ag
   - Movies
   - ----------------
   - Functional Programing
-  - NoSQL/MongoDB/
+  - NoSQL/MongoDB/Redis
   - Containers/Dockers/Kubernetes
   
+  ----------------
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=juniormty&show_icons=true&theme=nord)
   <br><br>
