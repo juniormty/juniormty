@@ -2,9 +2,9 @@
 
 ## Hello! ##
 
-I'm a Senior Full Stack Developer​, with experience working on Web, mainly in Front End development with React using Redux and JS ES6, and Back End development with Grails and Hibernate, With +10 years of experience in maintenance, development, and design of web applications.
+I'm a Senior Full Stack Developer​, with experience working on Web, mainly in Front End development with React using Redux and JS ES6, and Back End development with Grails and Hibernate, With experience in maintenance, development and design of web applications.
 
-And constantly updating my knowledge and interest in technologies/frameworks for agile development applying CoC, DRY and KISS patterns and practices
+And constantly updating knowledge and interest in technologies/frameworks for agile development applying CoC, DRY and KISS patterns and practices
 
 ### EXPERTISE: ###
 
