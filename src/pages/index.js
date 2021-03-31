@@ -56,7 +56,7 @@ const IndexPage = () => (
       <ul>
           <li>Coffee</li>
           <li>Woodworking</li>
-          <li>Moovies</li>
+          <li>Movies</li>
           <li>-----------------</li>
           <li>Functional Programing</li>
           <li>NoSQL/MongoDB/</li>
