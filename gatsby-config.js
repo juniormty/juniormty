@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/juniormty",
   siteMetadata: {
     title: `José Luis Junior Garza Zúñiga`,
     description: `Front end developer`,
