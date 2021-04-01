@@ -15,7 +15,7 @@ const IndexPage = () => (
       </div>
     </div>
 
-    <div style={{color: '#444',backgroundColor:'#87614750',padding:'50px 80px',textAlign: 'justify'}}>
+    <div style={{color: '#444',backgroundColor:'#FFFEDF50',padding:'50px 80px',textAlign: 'justify'}}>
       <h3 style={{textAlign:'center'}}>Front end developer</h3>
       <p>I'm a Senior Full Stack Developer​, with experience working on Web, mainly in Front End development with React using Redux and JS ES6, and Back End development with Grails and Hibernate, With experience in maintenance, development and design of web applications.</p>
       <p>Worked in CMMi L5 and Agile projects using Scrum; understanding the use and benefits of each one.</p>
