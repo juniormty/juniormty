@@ -17,11 +17,9 @@ const IndexPage = () => (
 
     <div style={{color: '#777',backgroundColor:'white',padding:'50px 80px',textAlign: 'justify'}}>
       <h3 style={{textAlign:'center'}}>Front end developer</h3>
-      <p>Senior Full Stack Developer​, with experience working on Web, mainly in Front End development with React using Redux and JS ES6, and Back End development with Grails and Hibernate, With +10 years of experience in maintenance, development, and design of web applications. </p>
-      <p>With a Bachelor Degree in Computer Science from UANL.</p>
-      <p>Also has knowledge of NodeJS, Scala, NoSQL and Hadoop.</p>
+      <p>I'm a Senior Full Stack Developer​, with experience working on Web, mainly in Front End development with React using Redux and JS ES6, and Back End development with Grails and Hibernate, With experience in maintenance, development and design of web applications.</p>
       <p>Worked in CMMi L5 and Agile projects using Scrum; understanding the use and benefits of each one.</p>
-      <p>And constantly updating my knowledge and interest in technologies/frameworks for agile development applying CoC, DRY and KISS patterns and practices</p>
+      <p>And constantly interest in technologies/frameworks for agile development applying CoC, DRY and KISS patterns and practices.</p>
     </div>
 
 
@@ -37,8 +35,6 @@ const IndexPage = () => (
           <li>React – Redux Front End Development</li>
           <li>Java Developer</li>
           <li>Application Design</li>
-          <li>Team Lead</li>
-          <li>Project Management</li>
           <li>Full Stack Development</li>
           <li>Agile Methodology</li>
         </ul>
