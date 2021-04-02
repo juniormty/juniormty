@@ -23,7 +23,7 @@ module.exports = {
         name: `github.io-juniormty`,
         short_name: `juniormty`,
         start_url: `/`,
-        background_color: `#876047`,
+        background_color: `#fcfbf2`,
         theme_color: `#876047`,
         display: `minimal-ui`,
         icon: `src/images/android-chrome-512x512.png`, // This path is relative to the root of the site.
